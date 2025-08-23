@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 0%;
+  margin: 0%;
+  background-color: rgb(66,160,186);
+}
+
+#splash-screen {
+  margin-top: 250px;
+  margin-left: 350px;
+  width: 900px;
+  background: #f4f4f9;
+  color: rgb(74,192,74);
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 30px;
+}
+
+div {
+  font-size: large;
+  background-color: rgb(66,160,186);
+  color: white;
+  padding: 0%;
+  margin: 0%;
+}
+
+div .app {
+  text-align: center;
+  display: flex;
+  color: white;
+}
+
+div a {
+  color: white;
+  text-decoration: none;
+}
+
+section {
+  padding: 30px;
+  text-align: center;
+}
+
+.team-card {
+  background: white;
+  border: 1px solid #ddd;
+  padding: 15px;
+  width: 200px;
+  border-radius: 8px;
+}
