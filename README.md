@@ -15,6 +15,6 @@ It includes a landing page, an about us section, and a team members section wher
 ## 🛠️ Tech Stack
 - **HTML**  
 - **CSS**  
-- **JavaScript**  
+- **JavaScript (basic)**  
 
 ---
